@@ -1,5 +1,3 @@
-Segue no mesmo padrão do seu README da urna:
-
 # User Input Validation Script
 
 A simple Python script focused on collecting and validating user input. The program requests basic information from the user, validates each entry, handles invalid inputs gracefully, and displays the collected data at the end.
